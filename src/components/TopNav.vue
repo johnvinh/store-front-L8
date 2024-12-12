@@ -1,10 +1,11 @@
 <template>
   <nav>
-    <div class="logo">
-      <a href="/">
-        <img src="/algonquin-pet-store.png" alt="Algonquin Pet Store Logo">
-      </a>
-    </div>
+<!--    <div class="logo">-->
+<!--      <a href="/">-->
+<!--        <img src="/algonquin-pet-store.png" alt="Algonquin Pet Store Logo">-->
+<!--      </a>-->
+<!--    </div>-->
+    <h1>Best Buy Store</h1>
     <button class="hamburger" @click="toggleNav">
       <span class="hamburger-icon"></span>
     </button>
